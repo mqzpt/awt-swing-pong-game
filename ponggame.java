@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////
 //                                                            //
-//      Matthew Athanasopoulos - Pong Game - Mar 6th 2022     //
+//      Matthew Athanasopoulos - Pong Game - Mar 6th 2023     //
 //                                                            //
 //  This is a basic pong game making use of awt and swing and //
 //  has many methods, and collisions. This program uses a GUI //
